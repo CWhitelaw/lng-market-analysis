@@ -17,6 +17,7 @@ Venture Global contract dispute.
   during price spikes
 
 ## Project Structure
+```
 lng-market-analysis/
 │
 ├── 01_us_lng_exports.ipynb              # U.S. LNG exports to Europe by destination
@@ -26,6 +27,7 @@ lng-market-analysis/
 │
 ├── europe_lng_volumes.csv               # Monthly LNG export volumes by destination
 ├── europe_lng_prices.csv                # Monthly LNG export prices by destination
+```
 
 ## Data Sources
 - **U.S. Energy Information Administration (EIA)** — LNG export volumes and prices 
