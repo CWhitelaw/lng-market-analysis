@@ -54,5 +54,5 @@ The following extensions are planned:
 
 ## Author
 Callum Whitelaw  
-B.A. Economics, University of Nevada, Reno (May 2026)  
+B.A. Economics, University of Nevada, Reno (August 2026)  
 [GitHub](https://github.com/CWhitelaw) | callumjwhitelaw@gmail.com
